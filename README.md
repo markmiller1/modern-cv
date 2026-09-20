@@ -134,3 +134,8 @@ The project is licensed under the MIT license. See [LICENSE](LICENSE) for more d
 
 | [<img src="https://avatars0.githubusercontent.com/u/6591180?s=460&v=4" width="100" alt="Author gravitar"><br><sub>@ptsouchlos</sub>](https://github.com/ptsouchlos) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+## 🔗 相关工具 / Related tools
+
+- [简历大师 Resume Master](https://markmiller1.github.io/resume-master/) — 免费、纯前端、隐私优先的在线简历生成器，8 套模板 + ATS 检测 + 64 页求职指南，数据不出本机
+- [awesome-resume-cn](https://github.com/markmiller1/awesome-resume-cn) — 中文免费简历资源精选清单（工具 / 模板 / 写作指南）
